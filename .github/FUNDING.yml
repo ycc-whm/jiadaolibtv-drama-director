@@ -1,5 +1,6 @@
 github: [ycc-whm]
+open_collective: jiadaolibtv-drama-director
 
 # Add paid templates, service pages, or course links here when available.
-# custom:
-#   - https://your-paid-template-or-service-page.example.com
+custom:
+  - https://opencollective.com/jiadaolibtv-drama-director
